@@ -17,6 +17,13 @@ body {
     text-align: center;
 }
 
+.subtitle {
+    padding-bottom: 5rem;
+    color: navy;
+    font-size: 3rem;
+    text-align: center;
+}
+
 button {
     padding: 1rem 3rem;
     font-size: 2rem;
